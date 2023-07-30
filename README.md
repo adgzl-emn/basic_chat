@@ -3,7 +3,7 @@
 # step 1 
 -- npm i express socket.io <br>
 -- npm i express nodemon   <br>
-#step 2  
+# step 2  
 -- nodemon server.js  <br>
 and go  <br>
 http://localhost:3000 <br>
